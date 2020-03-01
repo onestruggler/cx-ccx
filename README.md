@@ -3,7 +3,7 @@ T optimization of galois field circuits by commuting cx and ccx
 
 Feynman (https://github.com/meamy/feynman) has verified all the circuits.
 
-# The file verified.log contains final t-count and other statistics.
+The file verified.log contains final t-count and other statistics.
 
 # This folder contains 3 kinds of files:
 
